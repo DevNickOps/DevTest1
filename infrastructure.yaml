@@ -133,3 +133,6 @@ Outputs:
     Value: !Ref 'SubnetPrivate'
     Export:
       Name: infrastructure-subnetprivate
+  NatGateWay:
+    Description: NatGateway ID
+    Value: !Ref NatGateway

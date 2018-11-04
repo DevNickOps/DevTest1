@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # ****Dev environment****
 # Install Docker on your local machine
 # Run Docker Application
@@ -21,3 +22,6 @@
 =======
 # DevTest1
 >>>>>>> e2391377387a936b71f57ec53fbc8db8030d4b84
+=======
+
+>>>>>>> b71d3630fe1b18c3b024304f23733aa90d5b3003

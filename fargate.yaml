@@ -140,3 +140,6 @@ Outputs:
     Value: !Join ['', ['http://', !GetAtt 'LoadBalancer.DNSName']]
     Export:
       Name: !Join [ ':', [ !Ref 'AWS::StackName', 'Url' ] ]
+  SG:
+    Description: SG ID
+    Value: !Ref ContainerSG
